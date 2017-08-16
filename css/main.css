@@ -1,0 +1,12 @@
+@import url(https://fonts.googleapis.com/css?family=Archivo|Roboto);
+*, *:before, *:after {
+  position: relative;
+  margin: 5em auto;
+  box-sizing: border-box; }
+
+.main {
+  margin: 0 auto;
+  background: url("../img/researching.jpg") cover;
+  width: 100%; }
+
+/*# sourceMappingURL=main.css.map */
